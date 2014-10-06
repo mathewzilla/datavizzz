@@ -1,11 +1,14 @@
 datavizzz
 =========
 
-Playing around with data visualisation.
+A repository of cool IPython data visualisation notebooks. 
 -----
 
-### *Work is organised into IPython notebooks for:*
+### Work is organised into IPython notebooks for all kinds of things.
 
-### WorldCup2014.ipynb
-An interactive tournament planner for the 2014 FIFA World Cup in Brazil
+### Some are just notebooks I found to be useful, not necessarily anything to do with data visualisation 
+
+### I did not create most of these notebooks. Please see the individual notebooks for author accreditation. 
+
+### Thanks to the authors for making their work public!
 
